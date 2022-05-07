@@ -1,0 +1,57 @@
+Index      Year-Month    Country             Total Sales ($)
+0     2010-12       Australia           147.50
+1     2010-12          France           128.33
+2     2010-12         Germany           227.70
+3     2010-12  United Kingdom           291.81
+4     2011-01       Australia           471.30
+5     2011-01          France           576.29
+6     2011-01         Germany           279.10
+7     2011-01       Hong Kong           595.80
+8     2011-01  United Kingdom           157.76
+9     2011-02       Australia           511.94
+10    2011-02          France           213.60
+11    2011-02         Germany           420.50
+12    2011-02  United Kingdom           612.72
+13    2011-03       Australia          1360.70
+14    2011-03          France           508.47
+15    2011-03         Germany            50.55
+16    2011-03  United Kingdom           404.47
+17    2011-04          France            30.30
+18    2011-04         Germany            98.00
+19    2011-04       Hong Kong            73.10
+20    2011-04  United Kingdom           387.43
+21    2011-05       Australia           589.38
+22    2011-05          France           392.82
+23    2011-05         Germany           753.30
+24    2011-05       Hong Kong           269.85
+25    2011-05  United Kingdom           388.99
+26    2011-06       Australia           748.00
+27    2011-06          France           514.00
+28    2011-06         Germany           138.38
+29    2011-06       Hong Kong            15.00
+30    2011-06  United Kingdom           463.51
+31    2011-07       Australia           477.26
+32    2011-07          France           244.86
+33    2011-07         Germany           221.99
+34    2011-07  United Kingdom           618.12
+35    2011-08       Australia           558.18
+36    2011-08          France           839.34
+37    2011-08         Germany           137.55
+38    2011-08       Hong Kong           578.90
+39    2011-08  United Kingdom           213.22
+40    2011-09       Australia          1007.97
+41    2011-09          France           379.58
+42    2011-09         Germany           217.26
+43    2011-09  United Kingdom           734.94
+44    2011-10       Australia           231.90
+45    2011-10          France           577.14
+46    2011-10         Germany           167.46
+47    2011-10       Hong Kong           127.59
+48    2011-10  United Kingdom           278.45
+49    2011-11       Australia           245.76
+50    2011-11          France          1108.31
+51    2011-11         Germany           356.84
+52    2011-11  United Kingdom           842.83
+53    2011-12          France           125.12
+54    2011-12         Germany            85.08
+55    2011-12  United Kingdom           188.68
