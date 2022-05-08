@@ -1,0 +1,18 @@
+name: plotly_dash
+channels:
+  - defaults
+dependencies:
+  - python
+  - ipykernel
+  - seaborn
+  - pandas
+  - matplotlib
+  - numpy
+  - plotly
+  - jupyter-dash
+  - dash
+  - chart-studio
+  - nbformat
+  - ipywidgets
+  - openpyxl
+prefix: C:\Users\rolfc\miniconda3\envs\plotly_dash

@@ -4,7 +4,7 @@ ipykernel        : 6.4.1
 ipywidgets       : 7.6.5
 jupyter_client   : 7.1.2
 jupyter_core     : 4.9.2
-jupyter_server   : not installed
+jupyter_server   : 1.13.5
 jupyterlab       : not installed
 nbclient         : 0.5.11
 nbconvert        : 6.1.0
