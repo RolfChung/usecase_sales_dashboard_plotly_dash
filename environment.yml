@@ -41,7 +41,7 @@ dependencies:
   - fonttools=4.25.0
   - freetype=2.10.4
   - future=0.18.2
-  - icc_rt=2019.0.0
+  # - icc_rt=2019.0.0
   - icu=58.2
   - idna=3.3
   - importlib-metadata=4.8.2
@@ -110,7 +110,7 @@ dependencies:
   - python_abi=3.10
   - pytz=2021.3
   - pywin32=302
-  - pywinpty=2.0.2
+  # - pywinpty=2.0.2
   - pyyaml=6.0
   - pyzmq=22.3.0
   - qt=5.9.7
@@ -133,7 +133,7 @@ dependencies:
   - typing_extensions=4.1.1
   - tzdata=2021e
   - urllib3=1.26.8
-  - vc=14.2
+  # - vc=14.2
   - vs2015_runtime=14.27.29016
   - wcwidth=0.2.5
   - webencodings=0.5.1
