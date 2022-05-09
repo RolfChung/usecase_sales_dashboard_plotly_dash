@@ -15,5 +15,4 @@ dependencies:
   - nbformat
   - ipywidgets
   - openpyxl
-  - jupyter_server_proxy
 prefix: C:\Users\rolfc\miniconda3\envs\plotly_dash
