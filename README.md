@@ -7,7 +7,7 @@
 A live version is deposited on Binder.<br>
 "Binder allows you to create custom computing environments that can be shared and used by many remote users."<br>
 This allows to see the Dash apps create in the notebooks locally in your browser.<br>
-Jumpt directly to Binder for running the code of the repository:
+Jumpt directly to Binder for running the code of the repository:<br>
 <a href="https://mybinder.org/v2/gh/RolfChung/usecase_sales_dashboard_plotly_dash/HEAD" target="_blank">usecase_sales_dashboard</a> 
 </p>
 
@@ -16,8 +16,8 @@ Dash made a great job bringing Dash to Jupyter.<br>
 Normally you would develop and start Dash from an IDE and the command line.<br>
 As this project is a demonstration of Dash capabilities JupyterDash was chosen.<br>
 The JupyterDash has different modes of presentation: inline, jupyter lab, external.<br>
-The repository here uses inline and external.<br>
-In external mode a link is created at the end of the notebook. This outputsthe Dash app into a website.<br>
+The repository here uses the inline and external modes.<br>
+In external mode a link is created at the end of the notebook. This outputs the Dash app into a website.<br>
 However Github does not allow to start Dash apps from notebooks right now.<br>
 That is a reason a Binder version of this repository was created.<br>
 One last word: <b>Dash needs Javascript to be installed on the machine to work.</b>
