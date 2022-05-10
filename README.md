@@ -16,7 +16,7 @@ Jumpt directly to Binder for running the code of the repository:<br>
 Unfortunately it turns out:<br>
 Jupyterlab-dash needs to be included in built on Binder.<br>
 Otherwise it produces an error and JupyterDash does not work in Binder like here. :-(.<br>
-Maybe there will be 
+Hopefully there will be solution in the future to this problem by the developers.<br>
 More on this on the <a href='https://discourse.jupyter.org/t/jupyterlab-dash-needs-to-be-included-in-built-on-binder/14164', target='blank'> Jupyter com forum</a>.
 
 
