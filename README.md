@@ -1,5 +1,6 @@
 
-# Summary: usecase sales dashboard with Jupyter Dash
+# Summary: 
+## usecase sales dashboard with Jupyter Dash
 
 
 <p>
@@ -9,7 +10,19 @@ A live version is deposited on Binder.<br>
 This allows to see the Dash apps create in the notebooks locally in your browser.<br>
 Jumpt directly to Binder for running the code of the repository:<br>
 <a href="https://mybinder.org/v2/gh/RolfChung/usecase_sales_dashboard_plotly_dash/HEAD" target="_blank">usecase_sales_dashboard</a> 
+
 </p>
+<b>Notice 2:</b><br>
+Unfortunately it turns out:<br>
+Jupyterlab-dash needs to be included in built on Binder.<br>
+Otherwise it produces an error and JupyterDash does not work in Binder like here. :-(.<br>
+Maybe there will be 
+More on this on the <a href='https://discourse.jupyter.org/t/jupyterlab-dash-needs-to-be-included-in-built-on-binder/14164', target='blank'> Jupyter com forum</a>.
+
+
+</p>
+
+
 
 <p>
 Dash made a great job bringing Dash to Jupyter.<br>
